@@ -1,7 +1,7 @@
 ﻿# Day 13 — User Stories
 
 **Project:** Sports Tournament Management System (SportX)  
-**Source reviewed:** [`docs/day9/user-stories.md`](../../docs/day9/user-stories.md) and [`docs/day9/backlog-board.md`](../../docs/day9/backlog-board.md)
+**Source reviewed:** [`docs/day9/user-stories.md`](../docs/day9/user-stories.md) and [`docs/day9/backlog-board.md`](../docs/day9/backlog-board.md)
 
 ## Source note
 
@@ -100,3 +100,4 @@ I could not find a Project Catalog or a numbered FR1–FR8 list in the current `
 ## Planning status
 
 These are planning artifacts for the Day 13 submission. Their presence here does not mean the application features have been newly implemented, accepted, or placed on an external project board.
+
